@@ -16,6 +16,7 @@ html {
   left: calc(50% - 14px);
   position: absolute;
   width: 28px;
+  z-index: 3;
 }
 
 .hand {
